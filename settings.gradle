@@ -1,0 +1,3 @@
+include ':boiler'
+include ':app'
+rootProject.name = "BoilerplateProject"
